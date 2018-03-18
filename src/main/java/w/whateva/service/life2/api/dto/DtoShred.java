@@ -7,7 +7,7 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Set;
 
-public class DtoPiece {
+public class DtoShred {
 
     private String id;
 
